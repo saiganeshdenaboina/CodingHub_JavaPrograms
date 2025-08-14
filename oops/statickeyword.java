@@ -25,7 +25,7 @@ class Main
 {
 	static 
 	{
-		System.out.println("Static block");
+		System.out.println("Static block1");
 	}
 	static 
 	{

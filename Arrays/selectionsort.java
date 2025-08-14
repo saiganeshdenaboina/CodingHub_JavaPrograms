@@ -4,7 +4,7 @@ class Main
 	{
 		int[] a=new int[]{10,26,39,46,389,13};
 		
-		for(int i=0;i<a.length;i++)
+		for(int i=0;i<a.length-1;i++)
 		{
 			int min=i;
 			for(int j=i+1;j<a.length;j++)
