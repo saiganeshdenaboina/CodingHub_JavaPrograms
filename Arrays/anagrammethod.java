@@ -51,7 +51,8 @@ class Main
                 		}
                 		System.out.println();
             		}
-        	} else 
+        	} 
+		else 
 		{
            		 System.out.println("Matrix is NOT an Anagram");
         	}

@@ -23,6 +23,7 @@ class Main
 		for(int i=0;i<b.length;i++)
 			System.out.print(b[i]+" ");
 		*/
+
 		int mid=(a.length)/2;
 		for(int i=0,x=0;x<mid;x++,i++)
 			b[i]=a[x];

@@ -17,4 +17,5 @@ class Animal
 }
 class dog extends Animal
 {
+	dog(String name,String colour)
 }

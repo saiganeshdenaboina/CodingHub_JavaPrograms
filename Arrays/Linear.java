@@ -10,7 +10,7 @@ class Linear
 class Sai
 {
 	int key=40;
-	void Search(int[] arr)
+	void Search(int[] arr)s
 	{
 		for(int i=0;i<arr.length;i++)
 		{

@@ -23,6 +23,7 @@ class Main
 class Insert
 {
 	int[] element(int[] num,int pos,int n)
+
 	{
 		for(int i=num.length-1;i>pos;i--)
 		{

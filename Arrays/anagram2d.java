@@ -36,7 +36,10 @@ class Main
         }
 
         if (isAnagram)
-            System.out.println("The rows are anagrams.");
+	{
+            	System.out.println("The rows are anagrams.");
+	
+	}
         else
             System.out.println("The rows are NOT anagrams.");
     }
